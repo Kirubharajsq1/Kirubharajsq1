@@ -19,9 +19,8 @@ I'm a passionate **Full Stack Developer** who loves to build modern web applicat
 ### 🛠 Tools & Platforms
 - Git & GitHub
 - Docker
-- Firebase
-- MySQL, PostgreSQL, MongoDB
-- AWS, DigitalOcean, Heroku
+- MySQL, PostgreSQL,Neo4J
+- AWS, DigitalOcean, Cloudways, Laravel Forge
 
 ### 📚 Other Skills
 - **OCR** (Optical Character Recognition) using Python
