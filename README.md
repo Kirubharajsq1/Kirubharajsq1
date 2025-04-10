@@ -41,10 +41,6 @@ Currently working on:
 
 ---
 
-## 🧑‍💻 Find Me Around
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Portfolio](https://yourportfolio.com)
 
 Feel free to reach out if you'd like to collaborate or discuss any cool tech! 🚀
 
