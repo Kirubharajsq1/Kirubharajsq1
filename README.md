@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Developer** who loves to build modern web applicat
 ### 🔥 Programming Languages
 - PHP (Laravel)
 - JavaScript (React, Node.js)
-- Python (OCR, Machine Learning)
+- Python (AI/ML)
 
 ### ⚙️ Frameworks & Libraries
 - **Laravel** (PHP Framework)
@@ -36,7 +36,6 @@ Currently working on:
 
 ## 🌱 What I'm Learning
 - Exploring **GraphQL** and how it can enhance data fetching in modern web applications.
-- Deep diving into **TensorFlow** and **Computer Vision** for more advanced **OCR** projects.
 
 ---
 
